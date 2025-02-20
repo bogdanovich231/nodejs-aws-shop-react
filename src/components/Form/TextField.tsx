@@ -27,6 +27,10 @@ export function fieldToTextField({
       function (e) {
         fieldOnBlur(e ?? field.name);
       },
+    variant: (props.variant ?? "standard") as
+      | "standard"
+      | "outlined"
+      | "filled",
     ...field,
     value: field.value ?? "",
     ...props,
