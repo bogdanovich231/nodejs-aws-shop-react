@@ -1,5 +1,6 @@
-# Link for website
-+ [My shop](https://d3lon60lkhv8b7.cloudfront.net/)
+# Links AWS
++ [S3 bucket](http://cdkstack-shopbucket86a369b0-c9skvnbvl7oj.s3-website-eu-west-1.amazonaws.com/)
++ [CloudFront](https://d3lon60lkhv8b7.cloudfront.net/)
 
 # React-shop-cloudfront
 
